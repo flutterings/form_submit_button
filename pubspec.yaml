@@ -1,0 +1,19 @@
+name: form_submit_button
+description: A button to be used in a Form, which will pass the Form's state in the onPressed method.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
