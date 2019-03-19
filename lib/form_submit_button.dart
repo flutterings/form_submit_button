@@ -6,9 +6,18 @@ typedef SubmitCallback = void Function(FormState currentState);
 
 enum FormSubmitButtonType { raised, flat, outline }
 
+/// A stateful Button for stateless Forms.
+///
+/// It can be used in a stateless form in order to use the [FormState]
+/// for validation and saving, without the need of a [Key].
 class FormSubmitButton extends StatelessWidget {
+  /// It will be passed along to [MaterialButton.onPressed].
   final SubmitCallback submit;
+
+  /// The type of the [MaterialButton] to be used.
   final FormSubmitButtonType type;
+
+  /// It will be passed along to [MaterialButton.child].
   final Widget child;
 
   const FormSubmitButton(
