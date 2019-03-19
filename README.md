@@ -10,4 +10,4 @@ somehow to get a hold of the FormState.
 
 ## How to use it
 
-Check the [example]().
+Check the [example](example/example.dart).
