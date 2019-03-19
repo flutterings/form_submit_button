@@ -1,14 +1,13 @@
-# form_submit_button
+# Make use of FormState in a StatelessWidget Form.
 
-A stateful Button for stateless Forms
+A button to be used in a Form, which will pass the Form's state in the onPressed method.
 
-## Getting Started
+## Why use StatelessWidget?
 
-This project is a starting point for a Dart
-[package](https://flutter.io/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+If you are using the [container/presentation pattern](https://efthymis.com/smart-dumb-components-in-flutter/) 
+and want to use the Form as a presentation component, which most of the time you do, you would want 
+somehow to get a hold of the FormState.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## How to use it
+
+Check the [example]().
