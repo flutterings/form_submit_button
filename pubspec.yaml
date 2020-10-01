@@ -1,6 +1,6 @@
 name: form_submit_button
 description: A button to be used in a Form, which will pass the Form's state in the onPressed method.
-version: 0.1.0
+version: 0.2.0
 author: Efthymios Sarmpanis <e.sarbanis@gmail.com>
 homepage: https://github.com/flutterings/form_submit_button
 
