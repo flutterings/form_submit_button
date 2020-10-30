@@ -1,7 +1,7 @@
 # Change Log for form_submit_button
 A button to be used in a Form, which will pass the Form's state in the onPressed method.
 
-## [v0.2.0](http://github.com/flutterings/form_submit_button/compare/v0.1.0...v0.2.0) - 2020-10-01
+## [v0.2.0](https://github.com/flutterings/form_submit_button/compare/v0.1.0...v0.2.0) - 2020-10-01
 
 ### Feature
 * add customization parameters for the underlying button [b30dcfe](https://github.com/flutterings/form_submit_button/commit/b30dcfe101b3ee1521d6a16fa9810aaf2111a5ae)
@@ -9,7 +9,7 @@ A button to be used in a Form, which will pass the Form's state in the onPressed
 ### Docs
 * fix link to example [f926827](https://github.com/flutterings/form_submit_button/commit/f926827d65f462bc31b1a885269f004ed9b00c6a)
 
-## [v0.1.0](http://github.com/flutterings/form_submit_button/compare/v0.1.0) - 2019-03-19
+## [v0.1.0](https://github.com/flutterings/form_submit_button/compare/v0.1.0) - 2019-03-19
 
 ### Chore
 * add author and homepage to pubspec [7bcd7d2](https://github.com/flutterings/form_submit_button/commit/7bcd7d2d9a0ecc1f37f967959d86a509fab218e2)
